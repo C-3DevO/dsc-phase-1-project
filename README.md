@@ -43,18 +43,18 @@ This project analyzes historical aviation accident data from the National Transp
 ### Objective 1: Aircraft Risk Profiles
 - Top aircraft makes by total fatal injuries and substantial damage
 - Boxplot of fatal injuries by aircraft category
-![Aircraft Incidents](../images/aircraft_incidents.png)
+![Aircraft Incidents](images/aircraft_incidents.png)
 
 ### Objective 2: Contributing Factors
 - Bar chart: Average fatal injuries in IMC vs. VMC conditions
 - Fatal injuries by phase of flight: Takeoff, Climb, Cruise, Approach
 - Stacked bar: Injury severity across weather types
-![Weather Conditions](../images/weather_conditions.png)
+![Weather Conditions](images/weather_conditions.png)
 
 ### Objective 3: Geographic & Operational Risk
 - Incidents by U.S. state (e.g., CA, TX, FL lead in frequency)
 - Average fatal injuries by flight purpose (e.g., Skydiving, Executive, Firefighting)
-![Purpose of Flight](../images/purpose_of_flight.png)
+![Purpose of Flight](images/purpose_of_flight.png)
 
 ---
 
